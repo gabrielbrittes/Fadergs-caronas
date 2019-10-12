@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1041625147746",
+    "firebase_url": "https://fadergs-caronas.firebaseio.com",
+    "project_id": "fadergs-caronas",
+    "storage_bucket": "fadergs-caronas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041625147746:android:bd81f01909a95287eb643b",
+        "android_client_info": {
+          "package_name": "com.example.fadergscaronas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041625147746-bkncnom43ls4fc3bkvd568096j0v9d4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fadergscaronas",
+            "certificate_hash": "996cae0edc95cbab38919c2967446e3bc811f935"
+          }
+        },
+        {
+          "client_id": "1041625147746-eh68jhubvfrdl717i0u0arh3p8s10qtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiKSGlzpRHcFYjOAfduOpMGnd-P5rBS1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041625147746-eh68jhubvfrdl717i0u0arh3p8s10qtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
